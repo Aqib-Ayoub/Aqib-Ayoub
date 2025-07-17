@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqib-ayoub" alt="aqib-ayoub" /></a> </p>
 
-- 🔭 I’m currently working on JobHub **findjob**
+- 🔭 I’m currently working on JobHub **findjob**//
 
 - 🌱 I’m currently learning **Docker and postgresql**
 
